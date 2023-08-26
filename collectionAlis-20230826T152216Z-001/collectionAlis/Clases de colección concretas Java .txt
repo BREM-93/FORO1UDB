@@ -1,0 +1,1 @@
+Clases de colección concretas: Java proporciona una variedad de clases concretas que implementan estas interfaces. Algunas de las clases de colección más comunes son ArrayList, LinkedList, HashSet, TreeSet, HashMap y TreeMap. Cada una de estas clases tiene características y comportamientos específicos.
